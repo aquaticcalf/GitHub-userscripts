@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        GitHub Hide Private Content
-// @version     1.0.0
+// @version     0.0.1
 // @description A userscript that hides private repositories and organizations for screen sharing
 // @license     MIT
 // @author      aquaticcalf
