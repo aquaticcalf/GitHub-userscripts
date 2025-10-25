@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name        GitHub Hide Private Content
-// @version     0.1.0
+// @version     1.0.0
 // @description A userscript that hides private repositories and organizations for screen sharing
 // @license     MIT
-// @author      Rob Garrison
-// @namespace   https://github.com/Mottie
+// @author      aquaticcalf
+// @namespace   https://github.com/aquaticcalf
 // @match       https://github.com/*
 // @run-at      document-idle
 // @grant       none
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=1108163
 // @icon        https://github.githubassets.com/pinned-octocat.svg
-// @updateURL   https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-hide-private-content.user.js
-// @downloadURL https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-hide-private-content.user.js
-// @supportURL  https://github.com/Mottie/GitHub-userscripts/issues
+// @updateURL   https://raw.githubusercontent.com/aquaticcalf/GitHub-userscripts/master/github-hide-private-content.user.js
+// @downloadURL https://raw.githubusercontent.com/aquaticcalf/GitHub-userscripts/master/github-hide-private-content.user.js
+// @supportURL  https://github.com/aquaticcalf/GitHub-userscripts/issues
 // ==/UserScript==
 
 (() => {
